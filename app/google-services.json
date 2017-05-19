@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647159628920",
+    "firebase_url": "https://rating-4e84a.firebaseio.com",
+    "project_id": "rating-4e84a",
+    "storage_bucket": "rating-4e84a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647159628920:android:0a0338f475a73cc7",
+        "android_client_info": {
+          "package_name": "tech.inception.rating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647159628920-hijle6hm5k3p510k8551pnnvr3v44hog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5EYONNbXzH9yyHHpiCQ341vuFiDulvhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
